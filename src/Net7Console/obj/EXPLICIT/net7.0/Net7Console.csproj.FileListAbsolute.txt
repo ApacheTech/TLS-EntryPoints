@@ -1,0 +1,15 @@
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\Net7Console\bin\EXPLICIT\net7.0\Net7Console.exe
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\Net7Console\bin\EXPLICIT\net7.0\Net7Console.deps.json
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\Net7Console\bin\EXPLICIT\net7.0\Net7Console.runtimeconfig.json
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\Net7Console\bin\EXPLICIT\net7.0\Net7Console.dll
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\Net7Console\bin\EXPLICIT\net7.0\Net7Console.pdb
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\Net7Console\obj\EXPLICIT\net7.0\Net7Console.csproj.AssemblyReference.cache
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\Net7Console\obj\EXPLICIT\net7.0\Net7Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\Net7Console\obj\EXPLICIT\net7.0\Net7Console.AssemblyInfoInputs.cache
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\Net7Console\obj\EXPLICIT\net7.0\Net7Console.AssemblyInfo.cs
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\Net7Console\obj\EXPLICIT\net7.0\Net7Console.csproj.CoreCompileInputs.cache
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\Net7Console\obj\EXPLICIT\net7.0\Net7Console.dll
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\Net7Console\obj\EXPLICIT\net7.0\refint\Net7Console.dll
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\Net7Console\obj\EXPLICIT\net7.0\Net7Console.pdb
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\Net7Console\obj\EXPLICIT\net7.0\Net7Console.genruntimeconfig.cache
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\Net7Console\obj\EXPLICIT\net7.0\ref\Net7Console.dll

@@ -1,0 +1,10 @@
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\NetStandard2Console\bin\EXPLICIT\netstandard2.0\NetStandard2Console.deps.json
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\NetStandard2Console\bin\EXPLICIT\netstandard2.0\NetStandard2Console.dll
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\NetStandard2Console\bin\EXPLICIT\netstandard2.0\NetStandard2Console.pdb
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\NetStandard2Console\obj\EXPLICIT\netstandard2.0\NetStandard2Console.csproj.AssemblyReference.cache
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\NetStandard2Console\obj\EXPLICIT\netstandard2.0\NetStandard2Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\NetStandard2Console\obj\EXPLICIT\netstandard2.0\NetStandard2Console.AssemblyInfoInputs.cache
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\NetStandard2Console\obj\EXPLICIT\netstandard2.0\NetStandard2Console.AssemblyInfo.cs
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\NetStandard2Console\obj\EXPLICIT\netstandard2.0\NetStandard2Console.csproj.CoreCompileInputs.cache
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\NetStandard2Console\obj\EXPLICIT\netstandard2.0\NetStandard2Console.dll
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\NetStandard2Console\obj\EXPLICIT\netstandard2.0\NetStandard2Console.pdb

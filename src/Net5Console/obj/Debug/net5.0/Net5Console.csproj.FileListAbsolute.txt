@@ -1,0 +1,16 @@
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\Net5Console\bin\Debug\net5.0\Net5Console.exe
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\Net5Console\bin\Debug\net5.0\Net5Console.deps.json
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\Net5Console\bin\Debug\net5.0\Net5Console.runtimeconfig.json
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\Net5Console\bin\Debug\net5.0\Net5Console.runtimeconfig.dev.json
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\Net5Console\bin\Debug\net5.0\Net5Console.dll
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\Net5Console\bin\Debug\net5.0\Net5Console.pdb
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\Net5Console\obj\Debug\net5.0\Net5Console.csproj.AssemblyReference.cache
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\Net5Console\obj\Debug\net5.0\Net5Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\Net5Console\obj\Debug\net5.0\Net5Console.AssemblyInfoInputs.cache
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\Net5Console\obj\Debug\net5.0\Net5Console.AssemblyInfo.cs
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\Net5Console\obj\Debug\net5.0\Net5Console.csproj.CoreCompileInputs.cache
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\Net5Console\obj\Debug\net5.0\Net5Console.dll
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\Net5Console\obj\Debug\net5.0\refint\Net5Console.dll
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\Net5Console\obj\Debug\net5.0\Net5Console.pdb
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\Net5Console\obj\Debug\net5.0\Net5Console.genruntimeconfig.cache
+C:\Users\Apache\source\repos\TLS-EntryPoints\src\Net5Console\obj\Debug\net5.0\ref\Net5Console.dll

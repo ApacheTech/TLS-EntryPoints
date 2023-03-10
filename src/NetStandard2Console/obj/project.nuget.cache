@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cb4MZ2UNJKeTU854o1Jc3mOhfFh2qjp2t5xgDDHT3gothBw6egx/RWoGxBsMNWj9higWaCSrsvP6ruEUzMwmGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Apache\\source\\repos\\TLS-EntryPoints\\src\\NetStandard2Console\\NetStandard2Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Apache\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Apache\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

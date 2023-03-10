@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<Import Condition="'$(Configuration)' == 'SHARED'" Project="..\SharedEntryPoints\SharedEntryPoints.projitems" Label="Shared" />
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net5.0</TargetFramework>
+		<LangVersion>11</LangVersion>
+		<Configurations>Debug;Release;IMPLICIT;EXPLICIT;SHARED;TLS;TLS</Configurations>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)' == 'EXPLICIT'">
+		<StartupObject>Net5Console.ExplicitEntryPoint</StartupObject>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)' == 'SHARED'">
+		<StartupObject>SharedEntryPoints.SharedProgram</StartupObject>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+		<DefineConstants>$(DefineConstants);IMPLICIT</DefineConstants>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+		<DefineConstants>$(DefineConstants);IMPLICIT</DefineConstants>
+	</PropertyGroup>
+
+</Project>
